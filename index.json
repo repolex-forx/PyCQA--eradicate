@@ -1,0 +1,11 @@
+{
+  "org": "PyCQA",
+  "repo": "eradicate",
+  "versions": [
+    {
+      "commit": "d3f3d01e5cc9c65474d0f361e3f50fe1500b340c",
+      "tag": "",
+      "parsed_at": "2026-10-19T11:16:00.254309+00:00"
+    }
+  ]
+}
