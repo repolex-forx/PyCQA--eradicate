@@ -1,0 +1,29 @@
+{
+  "manifest_version": "1.0",
+  "org": "PyCQA",
+  "repo": "eradicate",
+  "versions": [
+    {
+      "commit": "d3f3d01e5cc9c65474d0f361e3f50fe1500b340c",
+      "parsed_at": "2026-10-19T11:13:29.062120+00:00",
+      "filetree": "filetree/d3f3d01e5cc9c65474d0f361e3f50fe1500b340c.nq.gz",
+      "blobs": [
+        "blob/ffbe05ffa4d95f5ca2a1e228896eaa61dfd5d91d.nq.gz",
+        "blob/eb231a2bb91ab58a680e61e905a6d61346b69edd.nq.gz",
+        "blob/8215beb05f528ae5e69cd3a5de51744203599dc6.nq.gz",
+        "blob/da70b5b9fc904ddee805e1f96faff1688df82ac4.nq.gz",
+        "blob/f5b6a51dd8731595a193d3b266c8223b7f3bf066.nq.gz",
+        "blob/81f43962f940791bb4d2df5e579b444ea354811f.nq.gz",
+        "blob/3fe1289a2191baecfc7717d8946d296072b46d51.nq.gz",
+        "blob/4807b6578ada253da0fbff94279f9355d261db73.nq.gz",
+        "blob/bc3d54e6c66400ffebac3fdcf26aa5e9ab0d1361.nq.gz",
+        "blob/c0de24a9cbf46cf9bd6c4e152847ca4857f8fd98.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
